@@ -2,3 +2,5 @@
 ================
 
 For science!
+
+![Game screenshot](screenshot.png)
